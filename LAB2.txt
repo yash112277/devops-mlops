@@ -1,0 +1,1 @@
+take the mnist dataset analyze it to perform classification(ml algo can be chosen freely) then map its accuracy
